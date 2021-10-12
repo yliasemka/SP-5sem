@@ -1,0 +1,3 @@
+﻿  Sp2.cpp
+C:\Users\asus\source\repos\Sp\Sp2\Sp2\Sp2.cpp(197,33): warning C4244: =: преобразование "LRESULT" в "WORD", возможна потеря данных
+  Sp2.vcxproj -> C:\Users\asus\source\repos\Sp\Sp2\Debug\Sp2.exe

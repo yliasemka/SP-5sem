@@ -1,0 +1,4 @@
+﻿  Sp3.cpp
+C:\Users\asus\source\repos\Sp\Sp3\Sp3\Sp3.cpp(116,17): warning C4101: ps: неиспользованная локальная переменная
+C:\Users\asus\source\repos\Sp\Sp3\Sp3\Sp3.cpp(211,19): warning C4101: arr: неиспользованная локальная переменная
+  Sp3.vcxproj -> C:\Users\asus\source\repos\Sp\Sp3\Debug\Sp3.exe
