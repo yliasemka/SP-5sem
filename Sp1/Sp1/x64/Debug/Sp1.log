@@ -1,0 +1,4 @@
+﻿  Sp1.cpp
+C:\Users\Julia\Desktop\сп\Sem5_SP-master\Sp1\Sp1\Sp1.cpp(197,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Julia\Desktop\сп\Sem5_SP-master\Sp1\Sp1\Sp1.cpp(139,9): warning C4101: hdc: неиспользованная локальная переменная
+  Sp1.vcxproj -> C:\Users\Julia\Desktop\сп\Sem5_SP-master\Sp1\x64\Debug\Sp1.exe
