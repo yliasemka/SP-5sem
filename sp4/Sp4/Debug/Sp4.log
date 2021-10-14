@@ -1,0 +1,4 @@
+﻿  Sp4.cpp
+C:\Users\asus\source\repos\Sp\Sp4\Sp4\Sp4.cpp(150,9): warning C4101: hdc: неиспользованная локальная переменная
+C:\Users\asus\source\repos\Sp\Sp4\Sp4\Sp4.cpp(217,13): warning C4101: hbm: неиспользованная локальная переменная
+  Sp4.vcxproj -> C:\Users\asus\source\repos\Sp\Sp4\Debug\Sp4.exe

@@ -1,0 +1,3 @@
+﻿  Sp5.cpp
+C:\Users\asus\source\repos\Sp\Sp5\Sp5\Sp5.cpp(221,9): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+  Sp5.vcxproj -> C:\Users\asus\source\repos\Sp\Sp5\Debug\Sp5.exe
